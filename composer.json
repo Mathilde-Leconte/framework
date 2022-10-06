@@ -15,5 +15,8 @@
     "minimum-stability": "dev",
     "require": {
         "vlucas/phpdotenv": "5.4.x-dev"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "6.2.x-dev"
     }
 }

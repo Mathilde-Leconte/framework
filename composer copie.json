@@ -1,0 +1,19 @@
+{
+    "name": "mathildell/framework",
+    "description": "Découverte Composer",
+    "autoload": {
+        "psr-4": {
+            "Mathildell\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MATHILDE",
+            "email": "mathildelecontelagaillarde@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "vlucas/phpdotenv": "5.4.x-dev"
+    }
+}

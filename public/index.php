@@ -16,7 +16,9 @@
 //Charger les varibles d'environnement
 require_once dirname(__DIR__). "/config/bootstrap.php";
 
-var_dump($_ENV);
+
+
+dd("Hello"); // dump and die
 //Création d'une nouvelle instance du noyau de l'application
 
 //Soumission de la requête au noyau
